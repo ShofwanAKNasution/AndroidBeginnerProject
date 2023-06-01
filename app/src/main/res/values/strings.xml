@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <string-array name="data_name">
+        <item>MSI - GL 36</item>
+        <item>MSI - Raider GE78 HX 13V</item>
+        <item>ASUS - Zenbook 17 Fold OLED UX9702</item>
+        <item>ASUS - Vivobook 14X OLED (A1403)</item>
+        <item>ACER - Aspire 3</item>
+        <item>ACER - Nitro 5 AN515-57-98VC</item>
+        <item>HP - 14s-dq0508TU</item>
+        <item>HP - Spectre X360 14-ef0063TU</item>
+        <item>HP - Victus Laptop 15-fa0011TX</item>
+        <item>Dell - XPS 13</item>
+        <item>DELL - XPS 17</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Rp. 10.999.999</item>
+        <item>Rp. 62.985.000</item>
+        <item>Rp. 49.999.000</item>
+        <item>Rp. 12.799.000</item>
+        <item>Rp. 5.109.000</item>
+        <item>Rp. 18.949.000</item>
+        <item>Rp. 4.599.000</item>
+        <item>Rp. 23.299.000</item>
+        <item>Rp. 12.999.000</item>
+        <item>Rp. 13.649.000</item>
+        <item>Rp. 48.400.000</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            -Processor \t\t\t\t\t\t : Intel i5 Gen 9 \n
+            -VGA \t\t\t\t\t\t\t\t\t\t\t\t : NVIDI Geforce GTX 1050 \n
+            -RAM \t\t\t\t\t\t\t\t\t\t\t : 8GB \n
+            -SSD \t\t\t\t\t\t\t\t\t\t\t\t : 500GB NVME \n
+            -Ukuran Layar \t : 1920 x 1080 \n
+
+        </item>
+        <item>
+
+            -Processor \t\t\t\t\t\t : Intel i9 Gen 13 \n
+            -VGA \t\t\t\t\t\t\t\t\t\t\t\t : NVIDI Geforce RTX 40900 \n
+            -RAM \t\t\t\t\t\t\t\t\t\t\t : 16GB \n
+            -SSD \t\t\t\t\t\t\t\t\t\t\t\t : 500GB NVME \n
+            -Ukuran Layar \t : 1920 x 1080 \n
+
+        </item>
+        <item>
+
+            -Processor \t\t\t\t\t\t : Intel i7 Gen 12 \n
+            -VGA \t\t\t\t\t\t\t\t\t\t\t\t : Iris Xe graphics \n
+            -RAM \t\t\t\t\t\t\t\t\t\t\t : 16GB \n
+            -SSD \t\t\t\t\t\t\t\t\t\t\t\t : 1TB PCle \n
+            -Ukuran Layar \t : 1920 x 1280 \n
+
+        </item>
+        <item>
+            -Processor \t\t\t\t\t\t : Intel i5 Gen 12 \n
+            -VGA \t\t\t\t\t\t\t\t\t\t\t\t : Tidak Punya \n
+            -RAM \t\t\t\t\t\t\t\t\t\t\t : 8GB \n
+            -SSD \t\t\t\t\t\t\t\t\t\t\t\t : 512GB M.2 NVMe \n
+            -Ukuran Layar \t : 1920 x 1280 \n
+
+        </item>
+        <item>
+
+            -Processor \t\t\t\t\t\t : Intel Pentium Silver N6000 \n
+            -VGA \t\t\t\t\t\t\t\t\t\t\t\t : Intel UHD Graphics \n
+            -RAM \t\t\t\t\t\t\t\t\t\t\t : 4GB \n
+            -SSD \t\t\t\t\t\t\t\t\t\t\t\t : 256GB \n
+            -Ukuran Layar \t : 1920 x 1080 \n
+
+        </item>
+        <item>
+            -Processor \t\t\t\t\t\t : Intel I9 Gen 11 \n
+            -VGA \t\t\t\t\t\t\t\t\t\t\t\t : GeForce® RTX™ 3060 \n
+            -RAM \t\t\t\t\t\t\t\t\t\t\t : 16GB \n
+            -SSD \t\t\t\t\t\t\t\t\t\t\t\t : 1TB \n
+            -Ukuran Layar \t : 1920 x 1080 \n
+
+        </item>
+        <item>
+            -Processor \t\t\t\t\t\t : Intel® Celeron® \n
+            -VGA \t\t\t\t\t\t\t\t\t\t\t\t : Intel® UHD Graphics 600 \n
+            -RAM \t\t\t\t\t\t\t\t\t\t\t : 4GB \n
+            -SSD \t\t\t\t\t\t\t\t\t\t\t\t : 256GB \n
+            -Ukuran Layar \t : 1920 x 1080 \n
+
+        </item>
+        <item>
+           -Processor \t\t\t\t\t\t : Intel i5 Gen 12 \n
+            -VGA \t\t\t\t\t\t\t\t\t\t\t\t : Intel® Integrated SoC \n
+            -RAM \t\t\t\t\t\t\t\t\t\t\t : 16GB \n
+            -SSD \t\t\t\t\t\t\t\t\t\t\t\t : 1TB \n
+            -Ukuran Layar \t : 1920 x 1280 \n
+
+        </item>
+        <item>
+
+            -Processor \t\t\t\t\t\t : Intel i5 Gen 12 \n
+            -VGA \t\t\t\t\t\t\t\t\t\t\t\t : NVIDIA® GeForce RTX™ 3050 \n
+            -RAM \t\t\t\t\t\t\t\t\t\t\t : 8GB \n
+            -SSD \t\t\t\t\t\t\t\t\t\t\t\t : 512GB PCIe® NVMe™ TLC M.2\n
+            -Ukuran Layar \t : 1920 x 1080 \n
+
+        </item>
+        <item>
+            -Processor \t\t\t\t\t\t : Intel i5 Gen 12 \n
+            -VGA \t\t\t\t\t\t\t\t\t\t\t\t : IRIS XE \n
+            -RAM \t\t\t\t\t\t\t\t\t\t\t : 8GB \n
+            -SSD \t\t\t\t\t\t\t\t\t\t\t\t : 512GB PCIe® NVMe™ TLC M.2\n
+            -Ukuran Layar \t : 1920 x 1200 \n
+
+        </item>
+        <item>
+            -Processor \t\t\t\t\t\t : Intel i7 Gen 12 \n
+            -VGA \t\t\t\t\t\t\t\t\t\t\t\t : NVIDIA® GeForce RTX™ 3060 \n
+            -RAM \t\t\t\t\t\t\t\t\t\t\t : 16GB \n
+            -SSD \t\t\t\t\t\t\t\t\t\t\t\t : 1TB PCIe® NVMe™\n
+            -Ukuran Layar \t : 3840 x 2400 \n
+
+        </item>
+    </string-array>
+
+    <string-array name="data_picture">
+        <item>@drawable/msi_63</item>
+        <item>@drawable/msi_ge78</item>
+        <item>@drawable/zenbook_17</item>
+        <item>@drawable/vivobook142</item>
+        <item>@drawable/acer_aspire3</item>
+        <item>@drawable/acer_nitro5</item>
+        <item>@drawable/hp_14s</item>
+        <item>@drawable/hp_sepectre</item>
+        <item>@drawable/hp_victus</item>
+        <item>@drawable/dell_xps</item>
+        <item>@drawable/dell_xps17</item>
+
+    </string-array>
+
+    <string-array name="link">
+        <item>"https://www.msi.com/Laptop/GL63-9RC/Specification"</item>
+        <item>"https://www.amazon.com/MSI-Raider-240Hz-Gaming-Laptop/dp/B0BT2ZHDNV"</item>
+        <item>"https://www.asus.com/id/laptops/for-home/zenbook/zenbook-17-fold-oled-ux9702/"</item>
+        <item>"https://id.store.asus.com/vivobook-14x-oled-a1403-vivobook-14x-oled-a1403.html"</item>
+        <item>"https://shopee.co.id/product/37968209/13448628022?utm_campaign=-utm_content=63f0bb72cc84160dd938a375utm_medium=affiliatesutm_source=an_11205220000utm_term=8u1d16556t47"</item>
+        <item>"https://www.tokopedia.com/kharismakencana/acer-nitro-5-an515-57-98vc-core-i9-11900h-16gb-512ssd-rtx3060-6gb-rgb"</item>
+        <item>"https://www.hp.com/id-id/shop/hp-laptop-14s-dq0508tu-580f1pa.html"</item>
+        <item>"https://www.hp.com/id-id/shop/hp-spectre-x360-2-in-1-laptop-14-ef0063tu-74y83pa.html"</item>
+        <item>"https://www.hp.com/id-id/shop/victus-gaming-laptop-15-fa0011tx-6g1l3pa.html"</item>
+        <item>"https://www.tokopedia.com/gaminglaptopid/new-laptop-dell-xps-13-9315-2022-i5-1230u-16gb-512ssd-w11-13-4fhd-ram-8gb-non-anti-gores?extParam=ivf%3Dfalsesrc=topads"</item>
+        <item>"https://www.tokopedia.com/bestechno88/dell-xps-17-9710-core-i7-11800h-32gb-1tb-ssd-vga-4gb-touch-win10pro?extParam=ivf%3Dfalsesrc=topads"</item>
+    </string-array>
+</resources>
